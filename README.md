@@ -26,7 +26,7 @@
 ## 📬 Contact
 - 📧 **Email:** [alamverdiansyahdaulay@gmail.com](mailto:alamverdiansyahdaulay@gmail.com)  
 - 🐙 **GitHub:** [github.com/alamverdian](https://github.com/alamverdian)  
-- 📄 **CV:** https://github.com/alamverdian/portofolio-alamverdian/blob/main/CV%20Kreatif%20-%20Alam%20Verdian%20Syah%20Daulay.pdf
+- 📄 **CV:** [CV_Alam_Verdian.pdf](https://github.com/alamverdian/portofolio-alamverdian/blob/main/CV%20Kreatif%20-%20Alam%20Verdian%20Syah%20Daulay.pdf)
 
 ---
 
